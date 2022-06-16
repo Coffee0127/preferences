@@ -1,9 +1,9 @@
 <scheme name="Xuan's SublimeMonokai" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-05-31T16:25:51</property>
+    <property name="created">2022-06-16T20:41:29</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-31T16:25:59</property>
+    <property name="ideVersion">2022.1.2.0.0</property>
+    <property name="modified">2022-06-16T20:41:34</property>
     <property name="originalScheme">Xuan's SublimeMonokai</property>
   </metaInfo>
   <colors>
@@ -701,25 +701,25 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="8d8a00" />
-        <option name="ERROR_STRIPE_COLOR" value="6e6b00" />
+        <option name="BACKGROUND" value="5c5100" />
+        <option name="ERROR_STRIPE_COLOR" value="5c5100" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="7d2424" />
+        <option name="BACKGROUND" value="5e1b1b" />
         <option name="ERROR_STRIPE_COLOR" value="5e1b1b" />
       </value>
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="55ad" />
-        <option name="ERROR_STRIPE_COLOR" value="488f" />
+        <option name="BACKGROUND" value="2d5e" />
+        <option name="ERROR_STRIPE_COLOR" value="2d5e" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="2a702a" />
+        <option name="BACKGROUND" value="205220" />
         <option name="ERROR_STRIPE_COLOR" value="205220" />
       </value>
     </option>
