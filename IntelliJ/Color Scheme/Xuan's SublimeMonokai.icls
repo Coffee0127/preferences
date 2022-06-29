@@ -2006,19 +2006,19 @@
     </option>
     <option name="RHTML_EXPRESSION_END_ID">
       <value>
-        <option name="FOREGROUND" value="4997" />
+        <option name="FOREGROUND" value="346d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RHTML_EXPRESSION_START_ID">
       <value>
-        <option name="FOREGROUND" value="4997" />
+        <option name="FOREGROUND" value="346d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RHTML_OMIT_NEW_LINE_ID">
       <value>
-        <option name="FOREGROUND" value="4997" />
+        <option name="FOREGROUND" value="346d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -2030,13 +2030,13 @@
     </option>
     <option name="RHTML_SCRIPTLET_END_ID">
       <value>
-        <option name="FOREGROUND" value="4997" />
+        <option name="FOREGROUND" value="346d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
-        <option name="FOREGROUND" value="4997" />
+        <option name="FOREGROUND" value="346d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
