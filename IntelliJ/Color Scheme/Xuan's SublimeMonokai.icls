@@ -2,8 +2,8 @@
   <metaInfo>
     <property name="created">2022-06-16T20:41:29</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-16T20:41:34</property>
+    <property name="ideVersion">2022.1.3.0.0</property>
+    <property name="modified">2022-06-29T10:07:27</property>
     <property name="originalScheme">Xuan's SublimeMonokai</property>
   </metaInfo>
   <colors>
@@ -2002,6 +2002,42 @@
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="666666" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_END_ID">
+      <value>
+        <option name="FOREGROUND" value="4997" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_EXPRESSION_START_ID">
+      <value>
+        <option name="FOREGROUND" value="4997" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_OMIT_NEW_LINE_ID">
+      <value>
+        <option name="FOREGROUND" value="4997" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTING_BACKGROUND_ID">
+      <value>
+        <option name="BACKGROUND" value="232323" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="FOREGROUND" value="4997" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="FOREGROUND" value="4997" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_BAD_CHARACTER">
